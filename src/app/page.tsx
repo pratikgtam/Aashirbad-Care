@@ -40,7 +40,7 @@ const testimonials = [
   },
   {
     quote: "Affordable, reliable, and truly compassionate. Highly recommend for anyone needing home care in Nepal!",
-    name: "Mina T.",
+    name: "Mina",
   },
 ];
 
